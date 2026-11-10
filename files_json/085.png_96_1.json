@@ -1,0 +1,1691 @@
+{
+ "source_file": "085.png",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "Production and distribution",
+ "unit": null,
+ "language": "英文",
+ "header_rows": 2,
+ "row_count": 18,
+ "col_count": 9,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "Chemicals by producer",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "Status",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Planned",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Produced",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Ordered",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Sold, Europe",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Sold, Asia",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Sold, Americas",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Sold, Total",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "MT",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "MT",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "MT",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "M$",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "M$",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "M$",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "M$",
+   "value_type": "unit",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "DowDuPont",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Warning",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "244.97",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "281.46",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "158.83",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "21902.77",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "36910.93",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "23525.92",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14283.99",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Ammonium Persulfate",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "38.48",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "61.67",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "60.63",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2286.29",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8749.54",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3219.66",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1738.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Caustic Potash",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Warning",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "89.97",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "37.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "72.12",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "264.07",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6440.31",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6926.42",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "58.68",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Polyaluminum Chloride",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Warning",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "75.13",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "62.20",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "19.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6272.34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "—",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1255.87",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9338.23",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Mono Ammonium Phosphate",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "84.91",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16.43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14.90",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "—",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4386.35",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4154.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3172.15",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Formosa",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "191.89",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "194.80",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "120.73",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15712.75",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18048.81",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "17552.43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11026.43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Ferric Nitrate",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "28.90",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "94.48",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3613.21",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9251.36",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8243.12",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7333.12",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "n-Pentane",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "58.93",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14.56",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "91.85",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7616.08",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "590.26",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2564.94",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1495.20",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Glycol Ether PM",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "46.17",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "49.40",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "97.73",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2397.22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "994.77",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5964.61",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "—",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "LG Chem.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Risk",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "212.62",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "224.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "166.76",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "129406.7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "12400.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9618.93",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "12586.24",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Paraformaldehyde",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "30.13",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.75",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "49.02",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9792.02",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3764.96",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1597.65",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "364.04",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Propyl Hydroxybenzoate",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Risk",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71.21",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "23.12",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "70.04",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3198.20",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9645.60",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "322.24",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6259.93",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "EDTA Plant",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Risk",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "76.51",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "99.05",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "86.46",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6709.44",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "—",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7180.46",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1116.08",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "EDTA-Ca-10",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Warning",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "97.44",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "35.92",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18.43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3381.76",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8127.34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5214.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7625.79",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "EDTA-Na2.2H2O",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "48.22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "54.21",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "60.72",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7401.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1925.11",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8751.90",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1527.20",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "EDTA-Zn-15",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Normal",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "31.50",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "20.65",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "45.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "—",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5867.93",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2842.57",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4717.74",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [
+  "粗体行为生产商汇总行（DowDuPont、Formosa、LG Chem.），EDTA Plant 为 LG Chem. 下的子汇总"
+ ],
+ "confidence": 96,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {
+  "score": 100,
+  "metrics": {
+   "size": [
+    3000,
+    1500
+   ],
+   "orientation_k": 0,
+   "orientation_conf": 1.0,
+   "skew_deg": 0.0,
+   "char_height": 39.4,
+   "short_edge": 1500,
+   "illumination_std": 2.5,
+   "contrast": {
+    "p5": 249.0,
+    "p95": 255.0,
+    "range": 6.0,
+    "fg_bg_gap": 202.0
+   },
+   "noise": {
+    "tiny": 0,
+    "total": 1168,
+    "tiny_frac": 0.0
+   }
+  },
+  "issues": [],
+  "actions": []
+ },
+ "preprocess": {
+  "original": "work\\085.png\\p1_orig.png",
+  "steps": []
+ },
+ "context": {
+  "page_title": "Production and distribution",
+  "language": "英文",
+  "body_text": "Production and distribution\nRead-only table",
+  "header_footer": [],
+  "figures": [],
+  "layout_source": "vlm+lines"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   null,
+   "number",
+   "number",
+   "number",
+   "number",
+   "number",
+   "number",
+   "number"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 90,
+ "declared_shape": [
+  18,
+  9
+ ],
+ "bbox": [
+  585,
+  147,
+  2415,
+  1308
+ ]
+}

@@ -1,0 +1,3657 @@
+{
+ "source_file": "061.pdf",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "Table 12 | Comparative Analysis of DeepSeek-V4-Pro and Gemini-3.1-Pro in Chinese Functional Writing.",
+ "unit": null,
+ "language": "中英文",
+ "header_rows": 2,
+ "row_count": 45,
+ "col_count": 9,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "Category",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "Subcategory",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "#",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 6,
+   "text": "Internal Evaluation (内部综合评估)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "DS win",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Gem win",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Tie",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "DS%",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Gem%",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Tie%",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 10,
+   "colspan": 1,
+   "text": "Business Writing (办公文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Report (报告)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "527",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "350",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "162",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "66.41",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "30.74",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2.85",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Proposal (方案策划)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "291",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "181",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "103",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "62.20",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "35.40",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2.41",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Education (教育培训)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "159",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "100",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "56",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "62.89",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "35.22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.89",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Email & Letter (邮件书信)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "146",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "107",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "37",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "73.29",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.37",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Notice (通知公告)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "72",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "24",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "59.72",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6.94",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Professional (专业文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "63",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "27",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "53.97",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "42.86",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.17",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Recruitment (招聘求职)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "42",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "27",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "64.29",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "35.71",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Technical (技术文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "29",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "75.86",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "24.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Review (介绍评价)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "20",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "75.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Subtotal (小计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1349",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "879",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "436",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "65.16",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "32.32",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2.52",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 0,
+   "rowspan": 9,
+   "colspan": 1,
+   "text": "Media Writing (媒体文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Social Media (社交媒体文案)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "267",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "156",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "101",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "58.43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "37.83",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.75",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Ad Copy (广告商品文案)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "214",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "109",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "98",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "50.93",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "45.79",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.27",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Long-form Content (内容平台长文)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "99",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71.72",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.25",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.03",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "News Report (新闻报道)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "51",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "27",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "52.94",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "43.14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.92",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Advertorial (营销软文)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "17",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "12",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "70.59",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "23.53",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5.88",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Headline (标题)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "63.64",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "36.36",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Narration Script (口播文案)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "50.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Comment (评论)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "66.67",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Subtotal (小计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "666",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "386",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "256",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "24",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "57.96",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "38.44",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.60",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 0,
+   "rowspan": 6,
+   "colspan": 1,
+   "text": "Everyday Writing (生活文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Congratulatory (祝贺文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "101",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "54",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "41",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "53.47",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "40.59",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5.94",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Communication (沟通回复)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "100",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "26",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "26.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Reflection (心得感想)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "90",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "68",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "17",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "75.56",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18.89",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5.56",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Review (介绍评价)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "55",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "44",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "80.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16.36",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.64",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Comment (评论)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "44",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "77.27",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18.18",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4.55",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Subtotal (小计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "390",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "271",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "101",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "69.49",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.90",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4.62",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 0,
+   "rowspan": 6,
+   "colspan": 1,
+   "text": "Oral Writing (口头文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Speech (发言稿)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "226",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "135",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "85",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "59.73",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "37.61",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 27,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2.65",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Narration Script (口播文案)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "51",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "23",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "49.02",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "45.10",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 28,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5.88",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Sales Script (话术)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "31",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "70.97",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "19.35",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 29,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9.68",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Dialogue (对话文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "40.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "60.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 30,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Congratulatory (祝贺文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "100.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 31,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Subtotal (小计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "319",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "187",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "120",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "12",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "58.62",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "37.62",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 32,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.76",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 0,
+   "rowspan": 6,
+   "colspan": 1,
+   "text": "Official Document (公文文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Administrative Doc (事务文书)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "117",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "60",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "53",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "51.28",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "45.30",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 33,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.42",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Personal Doc (个人文书)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "73",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "45",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "27",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "61.64",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "36.99",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 34,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.37",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Government Doc (行政公文)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "34",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "19",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "55.88",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "41.18",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 35,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2.94",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Speech (发言稿)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "66.67",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 36,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Essay Writing (申论写作)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 37,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "33.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Subtotal (小计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "230",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "126",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "97",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "54.78",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "42.17",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 38,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.04",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 0,
+   "rowspan": 5,
+   "colspan": 1,
+   "text": "Academic Writing (学术文本)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Research Paper (学术论文)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "104",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "67",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "32",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "64.42",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "30.77",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 39,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4.81",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Coursework (课程作业)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "90",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "53",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "35",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "58.89",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "38.89",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 40,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2.22",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Academic Support (学术辅助)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "73.33",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "20.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 41,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6.67",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Science Outreach (专业科普)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "85.71",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14.29",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 42,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.00",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Subtotal (小计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "216",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "137",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "63.43",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "32.87",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 43,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.70",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "Total (总计)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3170",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1986",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1081",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "103",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "62.65",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "34.10",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 44,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3.25",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [],
+ "confidence": 96,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {},
+ "preprocess": [],
+ "context": {
+  "page_title": null,
+  "language": "中英文",
+  "body_text": "Table12 | ComparativeAnalysisofDeepSeek-V4-ProandGemini-3.1-ProinChineseFunctional\nWriting.\nInternalEvaluation(内部综合评估)\nCategory Subcategory # DSwin Gemwin Tie DS% Gem% Tie%\nReport(报告) 527 350 162 15 66.41 30.74 2.85\nProposal(方案策划) 291 181 103 7 62.20 35.40 2.41\nEducation(教育培训) 159 100 56 3 62.89 35.22 1.89\nEmail&Letter(邮件书信) 146 107 37 2 73.29 25.34 1.37\nBusiness\nWriting Notice(通知公告) 72 43 24 5 59.72 33.33 6.94\n(办公文本) Professional(专业文本) 63 34 27 2 53.97 42.86 3.17\nRecruitment(招聘求职) 42 27 15 0 64.29 35.71 0.00\nTechnical(技术文本) 29 22 7 0 75.86 24.14 0.00\nReview(介绍评价) 20 15 5 0 75.00 25.00 0.00\nSubtotal(小计) 1349 879 436 34 65.16 32.32 2.52\nSocialMedia(社交媒体文案) 267 156 101 10 58.43 37.83 3.75\nAdCopy(广告商品文案) 214 109 98 7 50.93 45.79 3.27\nLong-formContent(内容平台长文) 99 71 25 3 71.72 25.25 3.03\nMedia NewsReport(新闻报道) 51 27 22 2 52.94 43.14 3.92\nWriting Advertorial(营销软文) 17 12 4 1 70.59 23.53 5.88\n(媒体文本) Headline(标题) 11 7 4 0 63.64 36.36 0.00\nNarrationScript(口播文案) 4 2 1 1 50.00 25.00 25.00\nComment(评论) 3 2 1 0 66.67 33.33 0.00\nSubtotal(小计) 666 386 256 24 57.96 38.44 3.60\nCongratulatory(祝贺文本) 101 54 41 6 53.47 40.59 5.94\nCommunication(沟通回复) 100 71 26 3 71.00 26.00 3.00\nEveryday\nReflection(心得感想) 90 68 17 5 75.56 18.89 5.56\nWriting\nReview(介绍评价) 55 44 9 2 80.00 16.36 3.64\n(生活文本)\nComment(评论) 44 34 8 2 77.27 18.18 4.55\nSubtotal(小计) 390 271 101 18 69.49 25.90 4.62\nSpeech(发言稿) 226 135 85 6 59.73 37.61 2.65\nNarrationScript(口播文案) 51 25 23 3 49.02 45.10 5.88\nOral\nSalesScript(话术) 31 22 6 3 70.97 19.35 9.68\nWriting\n(口头文本) Dialogue(对话文本) 10 4 6 0 40.00 60.00 0.00\nCongratulatory(祝贺文本) 1 1 0 0 100.00 0.00 0.00\nSubtotal(小计) 319 187 120 12 58.62 37.62 3.76\nAdministrativeDoc(事务文书) 117 60 53 4 51.28 45.30 3.42\nPersonalDoc(个人文书) 73 45 27 1 61.64 36.99 1.37\nOfficial GovernmentDoc(行政公文) 34 19 14 1 55.88 41.18 2.94\nDocument\n(公文文本) Speech(发言稿) 3 1 2 0 33.33 66.67 0.00\nEssayWriting(申论写作) 3 1 1 1 33.33 33.33 33.33\nSubtotal(小计) 230 126 97 7 54.78 42.17 3.04\nResearchPaper(学术论文) 104 67 32 5 64.42 30.77 4.81\nAcademic Coursework(课程作业) 90 53 35 2 58.89 38.89 2.22\nWriting AcademicSupport(学术辅助) 15 11 3 1 73.33 20.00 6.67\n(学术文本) ScienceOutreach(专业科普) 7 6 1 0 85.71 14.29 0.00\nSubtotal(小计) 216 137 71 8 63.43 32.87 3.70\nTotal(总计) 3170 1986 1081 103 62.65 34.10 3.25\n57",
+  "header_footer": [
+   "Writing.",
+   "InternalEvaluation(内部综合评估)",
+   "57"
+  ],
+  "figures": [],
+  "layout_source": "pdf_text_layer"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   null,
+   "number",
+   "number",
+   "number",
+   "number",
+   "percent",
+   "percent",
+   "percent"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 24,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 92,
+ "declared_shape": [
+  45,
+  9
+ ]
+}

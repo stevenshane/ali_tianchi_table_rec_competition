@@ -1,0 +1,496 @@
+{
+ "source_file": "001.pdf",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "表 1 国内外智能体开发工具与平台",
+ "unit": null,
+ "language": null,
+ "header_rows": 1,
+ "row_count": 11,
+ "col_count": 4,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "公司名称",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "工具名称",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "国别",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "功能",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "OpenAI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "AgentKit",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "美国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "智能体工作流创建和管理；数据与工具连接方式管理等。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "OpenAI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "AgentSDK",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "美国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "帮助开发者构建和管理复杂的单智能体系统和多智能体系统。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "OpenAI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "ResponsesAPI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "美国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "内置网络搜索、文件搜索和计算机使用等工具，允许代理与真实世界的数据进行交互。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "CrewAI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "CrewAI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "美国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "支持多智能体协作的框架，允许定义角色与任务分配。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "LangChain",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "LangChain",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "美国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "开源模块化开发框架，支持多模型接入，提供工具调用、记忆管理等组件。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "微软",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "AutoGen",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "美国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "支持多角色分工、代码生成与执行，适合分布式任务处理与跨领域协作。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "字节跳动",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "扣子",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "中国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "全场景低代码开发平台，支持拖拽式工作流设计。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "百度",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "AgentBuilder",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "中国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "通过拖拽式工作流设计器编排交互逻辑，支持接收用户输入、调用 API、生成回复等节点自由组合。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "腾讯",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "元器智能体平台",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 9,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "中国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 9,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "基于混元大模型的智能体创作与分发平台，核心功能覆盖低代码开发、微信生态深度集成、多模态交互。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 10,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "华为",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Versatile-AI",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 10,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "中国",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 10,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "提供包括数据准备、模型接入、知识工程、智能体开发和编排、MCP、应用部署等能力。",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  }
+ ],
+ "footnotes": [],
+ "confidence": 92,
+ "recognized_by": "pdf_text",
+ "continues_from_prev": false,
+ "quality": {},
+ "preprocess": [],
+ "context": {
+  "page_title": null,
+  "language": "中文",
+  "body_text": "人工智能产业发展研究报告（2025年）\n方式完成智能体创建，开发者无需编写代码即可组合逻辑节点、连\n接特定工具、配置自定义数据。另一方面，智能体开发工具可以促\n进智能体生态的建设。企业通过研发和开源智能体开发工具，可以培育\n更多用户参与到智能体创建，推动智能体在各个场景的规模化应用。\n表 1 国内外智能体开发工具与平台\n公司名称 工具名称 国别 功能\n智能体工作流创建和管理；数据与工具连\nOpenAI AgentKit 美国\n接方式管理等。\n帮助开发者构建和管理复杂的单智能体系\nOpenAI AgentSDK 美国\n统和多智能体系统。\n内置网络搜索、文件搜索和计算机使用等\nOpenAI ResponsesAPI 美国 工具，允许代理与真实世界的数据进行交\n互。\n支持多智能体协作的框架，允许定义角色\nCrewAI CrewAI 美国\n与任务分配。\n开源模块化开发框架，支持多模型接入，\nLangChain LangChain 美国\n提供工具调用、记忆管理等组件。\n支持多角色分工、代码生成与执行，适合\n微软 AutoGen 美国\n分布式任务处理与跨领域协作。\n全场景低代码开发平台，支持拖拽式工作\n字节跳动 扣子 中国\n流设计。\n通过拖拽式工作流设计器编排交互逻辑，\n百度 AgentBuilder 中国 支持接收用户输入、调用 API、生成回复\n等节点自由组合。\n基于混元大模型的智能体创作与分发平\n元器智能体平\n腾讯 中国 台，核心功能覆盖低代码开发、微信生态\n台\n深度集成、多模态交互。\n提供包括数据准备、模型接入、知识工程、\n华为 Versatile-AI 中国 智能体开发和编排、MCP、应用部署等能\n力。\n来源：中国信息通信研究院\n智能体通信协议进一步扩展智能体系统能力边界，降低系统集\n成复杂性。智能体通信协议通过标准化交互规则与协作机制，实现\n20",
+  "header_footer": [
+   "人工智能产业发展研究报告（2025年）",
+   "方式完成智能体创建，开发者无需编写代码即可组合逻辑节点、连",
+   "接特定工具、配置自定义数据。另一方面，智能体开发工具可以促",
+   "成复杂性。智能体通信协议通过标准化交互规则与协作机制，实现",
+   "20"
+  ],
+  "figures": [],
+  "layout_source": "pdf_text_layer"
+ },
+ "validation": {
+  "column_types": [
+   "text",
+   "text",
+   null,
+   null
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "bbox_rel": [
+  0.17001259974800503,
+  0.2728724391904437,
+  0.829987400251995,
+  0.7624435229312373
+ ],
+ "self_confidence": 95
+}

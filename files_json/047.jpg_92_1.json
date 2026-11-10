@@ -1,0 +1,930 @@
+{
+ "source_file": "047.jpg",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "个人简历",
+ "unit": null,
+ "language": "中文",
+ "header_rows": 0,
+ "row_count": 23,
+ "col_count": 12,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "姓名",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "雅资",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "性别",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "男",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "民族",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "汉",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 9,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "出生日期",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 10,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1992.5",
+   "value_type": "date",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 11,
+   "rowspan": 4,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "身高",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "175cm",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "体重",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "62kg",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "籍贯",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "湖北",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 9,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "健康状况",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 10,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "良好",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "专业",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "环艺设计",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "学历",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "专科",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "毕业院校",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "三峡大学",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 9,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "政治面貌",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 10,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "团员",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "联系电话",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "1534914xxxx",
+   "value_type": "id",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "E-mail",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "wenyaword@qq.com",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "求职意向",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 11,
+   "text": "园林设计师",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 12,
+   "text": "(一)基本技能",
+   "value_type": "text",
+   "style": {
+    "bg_color": "lightgreen"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "普通话",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "二级甲等",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "英语",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 10,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "四级",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "计算机水平",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "二级",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "是否有驾照",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 10,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "有",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "其他技能",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "PS、CAD 软件",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 7,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "特长、爱好",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 10,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "游泳",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "获得证书",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 9,
+   "text": "Adobe 中国认证设计师",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 12,
+   "text": "(二)教育情况",
+   "value_type": "text",
+   "style": {
+    "bg_color": "lightgreen"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "起止时间",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 5,
+   "text": "学校全称",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "所学专业",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "2012-2016",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 5,
+   "text": "三峡大学",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "环境与艺术设计",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "2009-2012",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 5,
+   "text": "长阳一中",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 5,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 12,
+   "text": "(三)实习经历",
+   "value_type": "text",
+   "style": {
+    "bg_color": "lightgreen"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "起止时间",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "工作单位",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "职务",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "主要职责",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "2014.04-2015.06",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "杭州科技有限公司",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "售前经理",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "负责公司线上资源的销售工作",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "2012.3-2012.10",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "武汉金地建设公司",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "测绘实习",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "对古建筑进行测绘，了解构造结构",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 6,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 8,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 12,
+   "text": "(四)其他",
+   "value_type": "text",
+   "style": {
+    "bg_color": "lightgreen"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "获奖情况",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 9,
+   "text": "院三等奖学金、学校十大歌手第三名",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "自我评价",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 9,
+   "text": "本人性格开朗，兴趣广泛，适应能力强，在工作实践中吃苦耐劳，上手快。",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [],
+ "confidence": 92,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {
+  "score": 85,
+  "metrics": {
+   "size": [
+    666,
+    811
+   ],
+   "phone_photo": true,
+   "quad_conf": 0.341,
+   "quad_tilt": 0.09,
+   "orientation_k": 0,
+   "orientation_conf": 1.0,
+   "skew_deg": 0.0,
+   "char_height": 22.0,
+   "short_edge": 666,
+   "illumination_std": 0.0,
+   "contrast": {
+    "p5": 100.0,
+    "p95": 255.0,
+    "range": 155.0,
+    "fg_bg_gap": 141.7
+   },
+   "noise": {
+    "tiny": 33,
+    "total": 459,
+    "tiny_frac": 0.0718954248366013
+   }
+  },
+  "issues": [
+   "low_resolution"
+  ],
+  "actions": [
+   [
+    "upscale",
+    {
+     "factor": 2
+    }
+   ]
+  ]
+ },
+ "preprocess": {
+  "original": "work\\047.jpg\\p1_orig.png",
+  "steps": [
+   {
+    "step": "upscale",
+    "params": {
+     "factor": 2
+    },
+    "image": "work\\047.jpg\\p1_1_upscale.png"
+   }
+  ]
+ },
+ "context": {
+  "page_title": null,
+  "language": "中文",
+  "body_text": "",
+  "header_footer": [],
+  "figures": [],
+  "layout_source": "lines"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 85,
+ "declared_shape": [
+  23,
+  12
+ ],
+ "bbox": [
+  17,
+  11,
+  1323,
+  1614
+ ]
+}

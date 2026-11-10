@@ -1,0 +1,322 @@
+{
+ "source_file": "033.jpg",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "不动产权信息表",
+ "unit": null,
+ "language": "中文",
+ "header_rows": 0,
+ "row_count": 10,
+ "col_count": 2,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "权利人",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": null,
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 30
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "共有情况",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "共同共有",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 85
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "坐落",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": null,
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 30
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "不动产单元号",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": null,
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 30
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "权利类型",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "国有建设用地使用权/房屋所有权",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 85
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "权利性质",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "出让/商品房",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 85
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "用途",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "城镇住宅用地/成套住宅",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 85
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "面积",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "共有宗地面积46768.6㎡/房屋建筑面积116.03㎡",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 85
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "使用期限",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2077年08月31日止",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 85
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "权利其他状况",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": null,
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 30
+  }
+ ],
+ "footnotes": [],
+ "confidence": 83,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {
+  "score": 63,
+  "metrics": {
+   "size": [
+    659,
+    931
+   ],
+   "phone_photo": true,
+   "quad_conf": 0.0,
+   "quad_tilt": null,
+   "orientation_k": 0,
+   "orientation_conf": 1.0,
+   "skew_deg": 0.0,
+   "char_height": 27.0,
+   "short_edge": 659,
+   "illumination_std": 34.44,
+   "contrast": {
+    "p5": 90.0,
+    "p95": 215.0,
+    "range": 125.0,
+    "fg_bg_gap": 88.2
+   },
+   "noise": {
+    "tiny": 184,
+    "total": 429,
+    "tiny_frac": 0.4289044289044289
+   }
+  },
+  "issues": [
+   "low_resolution",
+   "uneven_light",
+   "low_contrast"
+  ],
+  "actions": [
+   [
+    "upscale",
+    {
+     "factor": 2
+    }
+   ],
+   [
+    "bg_normalize",
+    {}
+   ],
+   [
+    "clahe",
+    {}
+   ]
+  ]
+ },
+ "preprocess": {
+  "original": "work\\033.jpg\\p1_orig.png",
+  "steps": [
+   {
+    "step": "upscale",
+    "params": {
+     "factor": 2
+    },
+    "image": "work\\033.jpg\\p1_1_upscale.png"
+   },
+   {
+    "step": "bg_normalize",
+    "params": {},
+    "image": "work\\033.jpg\\p1_2_bg_normalize.png"
+   },
+   {
+    "step": "clahe",
+    "params": {},
+    "image": "work\\033.jpg\\p1_3_clahe.png"
+   }
+  ]
+ },
+ "context": {
+  "page_title": null,
+  "language": "中文",
+  "body_text": "",
+  "header_footer": [],
+  "figures": [],
+  "layout_source": "lines"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   null
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 72,
+ "declared_shape": [
+  10,
+  2
+ ],
+ "bbox": [
+  33,
+  0,
+  1301,
+  1862
+ ]
+}

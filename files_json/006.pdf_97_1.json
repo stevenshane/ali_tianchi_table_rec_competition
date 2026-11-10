@@ -1,0 +1,172 @@
+{
+ "source_file": "006.pdf",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": null,
+ "unit": null,
+ "language": "中文",
+ "header_rows": 1,
+ "row_count": 4,
+ "col_count": 3,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "项目",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "期末余额",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "期初余额",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "分类为以公允价值计量且变动计入当期损益的金融资产小计",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "821,829,036.23",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "641,913,021.54",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "理财产品",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "821,829,036.23",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "641,913,021.54",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "合计",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "821,829,036.23",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "641,913,021.54",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [],
+ "confidence": 97,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {},
+ "preprocess": [],
+ "context": {
+  "page_title": null,
+  "language": "中文",
+  "body_text": "新疆东方环宇燃气股份有限公司\n2025年度\n财务报表附注\n项目 期末余额 期初余额\n分类为以公允价值计量且变动计入当期损益的\n821,829,036.23 641,913,021.54\n金融资产小计\n理财产品 821,829,036.23 641,913,021.54\n合计 821,829,036.23 641,913,021.54\n注释3．应收账款\n1．按账龄披露应收账款\n账龄 期末余额 期初余额\n1年以内 160,112,139.83 180,032,578.58\n1－2年 14,971,288.67 13,088,572.81\n2－3年 5,320,416.74 5,382,257.69\n3－4年 4,067,754.23 2,733,810.53\n4－5年 2,335,456.06 890,086.82\n5年以上 13,470,966.56 17,184,279.22\n小计 200,278,022.09 219,311,585.65\n减：坏账准备 32,239,502.30 30,650,191.70\n合计 168,038,519.79 188,661,393.95\n2．按坏账准备计提方法分类披露\n期末余额\n账面余额 坏账准备\n类别\n比例 计提比例 账面价值\n金额 金额\n（%） （%）\n单项计提坏账准备的应收\n12,851,007.45 6.42 7,586,126.44 59.03 5,264,881.01\n账款\n按组合计提坏账准备的应\n187,427,014.64 93.58 24,653,375.86 13.15 162,773,638.78\n收账款\n其中：信用风险特征组合 187,427,014.64 93.58 24,653,375.86 13.15 162,773,638.78\n合计 200,278,022.09 100.00 32,239,502.30 16.10 168,038,519.79\n续：\n期初余额\n账面余额 坏账准备\n类别\n比例 计提比例 账面价值\n金额 金额\n（%） （%）\n单项计提坏账准备的应收\n4,881,245.42 2.23 4,881,245.42 100.00\n账款\n按组合计提坏账准备的应\n214,430,340.23 97.77 25,768,946.28 12.02 188,661,393.95\n收账款\n其中：信用风险特征组合 214,430,340.23 97.77 25,768,946.28 12.02 188,661,393.95\n财务报表附注 第46页",
+  "header_footer": [
+   "新疆东方环宇燃气股份有限公司",
+   "2025年度",
+   "财务报表附注",
+   "财务报表附注 第46页"
+  ],
+  "figures": [],
+  "layout_source": "pdf_text_layer"
+ },
+ "validation": {
+  "column_types": [
+   "text",
+   "amount",
+   "amount"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 95,
+ "declared_shape": [
+  4,
+  3
+ ]
+}

@@ -1,0 +1,503 @@
+{
+ "source_file": "070.pdf",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "1 2 3",
+ "unit": null,
+ "language": null,
+ "header_rows": 1,
+ "row_count": 9,
+ "col_count": 5,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Method",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "GPU",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "MDE/s1",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "FPS2",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 0,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Error3",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Our Method",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "GeForce GTX 680",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "215.7",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "90",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6.20",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "CostFilter [10]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "GeForce GTX 480",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "57.9",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "24",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 2,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5.55",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "FastBilateral [7]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Tesla C2070",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "50.6",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "21",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7.31",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "RealtimeBFV [8]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "GeForce 8800 GTX",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "114.3",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "46",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7.65",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "RealtimeBP [21]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "GeForce 7900 GTX",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "20.9",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 5,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7.69",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "ESAW [6]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "GeForce 8800 GTX",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "194.8",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "79",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 6,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8.21",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "RealTimeGPU [5]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Radeon XL1800",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "52.8",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "21",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 7,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9.82",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "DCBGrid [19]",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Quadro FX 5800",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25.1",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  },
+  {
+   "row": 8,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10.90",
+   "value_type": null,
+   "style": {},
+   "cell_conf": 98
+  }
+ ],
+ "footnotes": [],
+ "confidence": 98,
+ "recognized_by": "pdf_text",
+ "continues_from_prev": false,
+ "quality": {},
+ "preprocess": [],
+ "context": {
+  "page_title": null,
+  "language": "英文",
+  "body_text": "over the most recent frames. By maintaining a reasonably the proposed implementation achieves the highest speed of\nhigh value of γ , the auxiliary cost also preserves temporal operation measured by the number of disparity hypotheses\nt\nedges, essentially reducing over-smoothing of a pixel’s dis- evaluatedpersecond,asshowninTableII.Itisalsothesecond\nparity when a pixel transitions from one depth to another in most accurate real-time method in terms of error rate, as\nsubsequent frames. measured using the Middlebury stereo evaluation benchmark.\nIt should be noted that it is difficult to establish an unbiased\nmetric for speed comparisons, as the architecture, number of\ncores, and clock speed of graphics hardware used are not\nconsistent across implementations.\nTable II: A comparison of speed and accuracy for the imple-\nmentations of many leading real-time stereo matching meth-\nods.\nMethod GPU MDE/s1 FPS2 Error3\nOurMethod GeForceGTX680 215.7 90 6.20\nCostFilter[10] GeForceGTX480 57.9 24 5.55\nFastBilateral[7] TeslaC2070 50.6 21 7.31\nRealtimeBFV[8] GeForce8800GTX 114.3 46 7.65\nRealtimeBP[21] GeForce7900GTX 20.9 8 7.69\nESAW[6] GeForce8800GTX 194.8 79 8.21\nRealTimeGPU[5] RadeonXL1800 52.8 21 9.82\nDCBGrid[19] QuadroFX5800 25.1 10 10.90\n1MillionsofDisparityEstimatesperSecond.\n2Assumes320×240imageswith32disparitylevels.\n3AsmeasuredbytheMiddleburystereoperformancebenchmarkusing\ntheavgerage%ofbadpixels.\nV. CONCLUSION\nWhile the majority of stereo matching algorithms focus\non achieving high accuracy on still images, the volume of\nresearch aimed at recovery of temporally consistent disparity\nmaps remains disproportionally small. This paper introduces\nan efficient temporal cost aggregation scheme that can easily\nbe combined with conventional spatial cost aggregation to\nimprove the accuracy of stereo matching when operating on\nvideo sequences. A synthetic video sequence, along with\nground truth disparity data, was generated to evaluate the\nFigure 5: A comparison of stereo matching without temporal\nperformance of the proposed method. It was shown that\ncost aggregation (top) and with temporal cost aggregation\ntemporalaggregationissignificantlymorerobusttonoisethan\n(bottom) for a single frame in the synthetic video sequence\na method that only considers the current stereo frames.\nwherethenoiseis 30andthefeedbackcoefficientisλ=0.8.\n±\nREFERENCES\nThe optimal value of the feedback coefficient is largely [1] D. Scharstein and R. Szeliski, “A taxonomy and evaluation of dense\ntwo-frame stereo correspondence algorithms,” International Journal of\ndependent on the noise being added to the image. Figure 4\nComputerVision,vol.47,pp.7–42,April-June2002.\nshows the optimal values of λ for noise ranging between 0 [2] D.ScharsteinandR.Szeliski,“High-accuracystereodepthmapsusing\n±\nto 40. As intuition would suggest, it is more beneficial to structuredlight,”inInIEEEComputerSocietyConferenceonComputer\n± VisionandPatternRecognition,vol.1,pp.195–202,June2003.\nrely on the auxiliary cost when noise is high and it is more\n[3] J. Kowalczuk, E. Psota, and L. Perez, “Real-time stereo matching on\nbeneficialtorelyonthecurrentcostwhennoiseislow.Figure CUDAusinganiterativerefinementmethodforadaptivesupport-weight\n5illustratestheimprovementsthatareachievedwhenapplying correspondences,” Circuits and Systems for Video Technology, IEEE\nTransactionson,vol.23,pp.94–104,Jan.2013.\ntemporal stereo matching to a particular pair of frames in the\n[4] K.-J.YoonandI.-S.Kweon,“Locallyadaptivesupport-weightapproach\nsynthetic video sequence. Clearly, the noise in the disparity forvisualcorrespondencesearch,”inCVPR’05:Proceedingsofthe2005\nmap is drastically reduced when temporal stereo matching is IEEE Computer Society Conference on Computer Vision and Pattern\nRecognition(CVPR’05)-Volume2,(Washington,DC,USA),pp.924–\nused.\n931,IEEEComputerSociety,2005.\nThe algorithm was implement using NVIDIA’s Compute [5] L.Wang,M.Liao,M.Gong,R.Yang,andD.Nister,“High-qualityreal-\nUnified Device Architecture (CUDA). The details of the im- timestereousingadaptivecostaggregationanddynamicprogramming,”\nin 3DPVT ’06: Proceedings of the Third International Symposium\nplementationaresimilartothosegivenin[3].Whencompared\non 3D Data Processing, Visualization, and Transmission (3DPVT’06),\nto other existing real-time stereo matching implementations, (Washington,DC,USA),pp.798–805,IEEEComputerSociety,2006.",
+  "header_footer": [
+   "t"
+  ],
+  "figures": [],
+  "layout_source": "pdf_text_layer"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   null,
+   "number",
+   "number",
+   "number"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "bbox_rel": [
+  0.5200816883986928,
+  0.27981313068181823,
+  0.909665026633987,
+  0.38949242020202024
+ ],
+ "self_confidence": 95
+}

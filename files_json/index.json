@@ -1,0 +1,552 @@
+{
+ "001.pdf": {
+  "tables": [
+   {
+    "json": "001.pdf_92_1.json",
+    "table_index": 1,
+    "title": "表 1 国内外智能体开发工具与平台",
+    "pages": [
+     1
+    ],
+    "confidence": 92,
+    "shape": [
+     11,
+     4
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "人工智能产业发展研究报告（2025年）\n方式完成智能体创建，开发者无需编写代码即可组合逻辑节点、连\n接特定工具、配置自定义数据。另一方面，智能体开发工具可以促\n进智能体生态的建设。企业通过研发和开源智能体开发工具，可以培育\n更多用户参与到智能体创建，推动智能体在各个场景的规模化应用。\n表 1 国内外智能体开发工具与平台\n公司名称 工具名称 国别 功能\n智能体工作流创建和管理；数据与工具连\nOpenAI AgentKit 美国\n接方式管理等。\n帮助开发者构建和管理复杂的单智能体系\nOpenAI AgentSDK 美国\n统和多智能体系统。\n内置网络搜索、文件搜索和计算机使用等\nOpenAI ResponsesAPI 美国 工具，允许代理与真实世界的数据进行交\n互。\n支持多智能体协作的框架，允许定义角色\nCrewAI CrewAI 美国\n与任务分配。\n开源模块化开发框架，支持多模型接入，\nLangChain LangChain 美国\n提供工具调用、记忆管理等组件。\n支持多角色分工、代码生成与执行，适合\n微软 AutoGen 美国\n分布式任务处理与跨领域协作。\n全场景低代码开发平台，支持拖拽式工作\n字节跳动 扣子 中国\n流设计。\n通过拖拽式工作流设计器编排交互逻辑，\n百度 AgentBuilder 中国 支持接收用户输入、调用 API、生成回复\n等节点自由组合。\n基于混元大模型的智能体创作与分发平\n元器智能体平\n腾讯 中国 台，核心功能覆盖低代码开发、微信生态\n台\n深度集成、多模态交互。\n提供包括数据准备、模型接入、知识工程、\n华为 Versatile-AI 中国 智能体开发和编排、MCP、应用部署等能\n力。\n来源：中国信息通信研究院\n智能体通信协议进一步扩展智能体系统能力边界，降低系统集\n成复杂性。智能体通信协议通过标准化交互规则与协作机制，实现\n20",
+    "header_footer": [
+     "人工智能产业发展研究报告（2025年）",
+     "方式完成智能体创建，开发者无需编写代码即可组合逻辑节点、连",
+     "接特定工具、配置自定义数据。另一方面，智能体开发工具可以促",
+     "成复杂性。智能体通信协议通过标准化交互规则与协作机制，实现",
+     "20"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   }
+  ],
+  "updated": "2026-11-07T18:45:38"
+ },
+ "070.pdf": {
+  "tables": [
+   {
+    "json": "070.pdf_98_1.json",
+    "table_index": 1,
+    "title": "1 2 3",
+    "pages": [
+     1
+    ],
+    "confidence": 98,
+    "shape": [
+     9,
+     5
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "英文",
+    "body_text": "over the most recent frames. By maintaining a reasonably the proposed implementation achieves the highest speed of\nhigh value of γ , the auxiliary cost also preserves temporal operation measured by the number of disparity hypotheses\nt\nedges, essentially reducing over-smoothing of a pixel’s dis- evaluatedpersecond,asshowninTableII.Itisalsothesecond\nparity when a pixel transitions from one depth to another in most accurate real-time method in terms of error rate, as\nsubsequent frames. measured using the Middlebury stereo evaluation benchmark.\nIt should be noted that it is difficult to establish an unbiased\nmetric for speed comparisons, as the architecture, number of\ncores, and clock speed of graphics hardware used are not\nconsistent across implementations.\nTable II: A comparison of speed and accuracy for the imple-\nmentations of many leading real-time stereo matching meth-\nods.\nMethod GPU MDE/s1 FPS2 Error3\nOurMethod GeForceGTX680 215.7 90 6.20\nCostFilter[10] GeForceGTX480 57.9 24 5.55\nFastBilateral[7] TeslaC2070 50.6 21 7.31\nRealtimeBFV[8] GeForce8800GTX 114.3 46 7.65\nRealtimeBP[21] GeForce7900GTX 20.9 8 7.69\nESAW[6] GeForce8800GTX 194.8 79 8.21\nRealTimeGPU[5] RadeonXL1800 52.8 21 9.82\nDCBGrid[19] QuadroFX5800 25.1 10 10.90\n1MillionsofDisparityEstimatesperSecond.\n2Assumes320×240imageswith32disparitylevels.\n3AsmeasuredbytheMiddleburystereoperformancebenchmarkusing\ntheavgerage%ofbadpixels.\nV. CONCLUSION\nWhile the majority of stereo matching algorithms focus\non achieving high accuracy on still images, the volume of\nresearch aimed at recovery of temporally consistent disparity\nmaps remains disproportionally small. This paper introduces\nan efficient temporal cost aggregation scheme that can easily\nbe combined with conventional spatial cost aggregation to\nimprove the accuracy of stereo matching when operating on\nvideo sequences. A synthetic video sequence, along with\nground truth disparity data, was generated to evaluate the\nFigure 5: A comparison of stereo matching without temporal\nperformance of the proposed method. It was shown that\ncost aggregation (top) and with temporal cost aggregation\ntemporalaggregationissignificantlymorerobusttonoisethan\n(bottom) for a single frame in the synthetic video sequence\na method that only considers the current stereo frames.\nwherethenoiseis 30andthefeedbackcoefficientisλ=0.8.\n±\nREFERENCES\nThe optimal value of the feedback coefficient is largely [1] D. Scharstein and R. Szeliski, “A taxonomy and evaluation of dense\ntwo-frame stereo correspondence algorithms,” International Journal of\ndependent on the noise being added to the image. Figure 4\nComputerVision,vol.47,pp.7–42,April-June2002.\nshows the optimal values of λ for noise ranging between 0 [2] D.ScharsteinandR.Szeliski,“High-accuracystereodepthmapsusing\n±\nto 40. As intuition would suggest, it is more beneficial to structuredlight,”inInIEEEComputerSocietyConferenceonComputer\n± VisionandPatternRecognition,vol.1,pp.195–202,June2003.\nrely on the auxiliary cost when noise is high and it is more\n[3] J. Kowalczuk, E. Psota, and L. Perez, “Real-time stereo matching on\nbeneficialtorelyonthecurrentcostwhennoiseislow.Figure CUDAusinganiterativerefinementmethodforadaptivesupport-weight\n5illustratestheimprovementsthatareachievedwhenapplying correspondences,” Circuits and Systems for Video Technology, IEEE\nTransactionson,vol.23,pp.94–104,Jan.2013.\ntemporal stereo matching to a particular pair of frames in the\n[4] K.-J.YoonandI.-S.Kweon,“Locallyadaptivesupport-weightapproach\nsynthetic video sequence. Clearly, the noise in the disparity forvisualcorrespondencesearch,”inCVPR’05:Proceedingsofthe2005\nmap is drastically reduced when temporal stereo matching is IEEE Computer Society Conference on Computer Vision and Pattern\nRecognition(CVPR’05)-Volume2,(Washington,DC,USA),pp.924–\nused.\n931,IEEEComputerSociety,2005.\nThe algorithm was implement using NVIDIA’s Compute [5] L.Wang,M.Liao,M.Gong,R.Yang,andD.Nister,“High-qualityreal-\nUnified Device Architecture (CUDA). The details of the im- timestereousingadaptivecostaggregationanddynamicprogramming,”\nin 3DPVT ’06: Proceedings of the Third International Symposium\nplementationaresimilartothosegivenin[3].Whencompared\non 3D Data Processing, Visualization, and Transmission (3DPVT’06),\nto other existing real-time stereo matching implementations, (Washington,DC,USA),pp.798–805,IEEEComputerSociety,2006.",
+    "header_footer": [
+     "t"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   }
+  ],
+  "updated": "2026-11-07T19:12:52"
+ },
+ "006.pdf": {
+  "tables": [
+   {
+    "json": "006.pdf_97_1.json",
+    "table_index": 1,
+    "title": null,
+    "pages": [
+     1
+    ],
+    "confidence": 97,
+    "shape": [
+     4,
+     3
+    ]
+   },
+   {
+    "json": "006.pdf_97_2.json",
+    "table_index": 2,
+    "title": "1．按账龄披露应收账款",
+    "pages": [
+     1
+    ],
+    "confidence": 97,
+    "shape": [
+     10,
+     3
+    ]
+   },
+   {
+    "json": "006.pdf_97_3.json",
+    "table_index": 3,
+    "title": "2．按坏账准备计提方法分类披露（期末余额）",
+    "pages": [
+     1
+    ],
+    "confidence": 97,
+    "shape": [
+     7,
+     6
+    ]
+   },
+   {
+    "json": "006.pdf_97_4.json",
+    "table_index": 4,
+    "title": "2．按坏账准备计提方法分类披露（续：期初余额）",
+    "pages": [
+     1,
+     2
+    ],
+    "confidence": 97,
+    "shape": [
+     7,
+     6
+    ]
+   },
+   {
+    "json": "006.pdf_97_5.json",
+    "table_index": 5,
+    "title": "3．单项计提坏账准备的应收账款",
+    "pages": [
+     2
+    ],
+    "confidence": 97,
+    "shape": [
+     7,
+     5
+    ]
+   },
+   {
+    "json": "006.pdf_97_6.json",
+    "table_index": 6,
+    "title": "4．按组合计提坏账准备的应收账款",
+    "pages": [
+     2
+    ],
+    "confidence": 97,
+    "shape": [
+     9,
+     4
+    ]
+   },
+   {
+    "json": "006.pdf_97_7.json",
+    "table_index": 7,
+    "title": "5．本期计提、收回或转回的坏账准备情况",
+    "pages": [
+     2
+    ],
+    "confidence": 97,
+    "shape": [
+     6,
+     7
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "新疆东方环宇燃气股份有限公司\n2025年度\n财务报表附注\n项目 期末余额 期初余额\n分类为以公允价值计量且变动计入当期损益的\n821,829,036.23 641,913,021.54\n金融资产小计\n理财产品 821,829,036.23 641,913,021.54\n合计 821,829,036.23 641,913,021.54\n注释3．应收账款\n1．按账龄披露应收账款\n账龄 期末余额 期初余额\n1年以内 160,112,139.83 180,032,578.58\n1－2年 14,971,288.67 13,088,572.81\n2－3年 5,320,416.74 5,382,257.69\n3－4年 4,067,754.23 2,733,810.53\n4－5年 2,335,456.06 890,086.82\n5年以上 13,470,966.56 17,184,279.22\n小计 200,278,022.09 219,311,585.65\n减：坏账准备 32,239,502.30 30,650,191.70\n合计 168,038,519.79 188,661,393.95\n2．按坏账准备计提方法分类披露\n期末余额\n账面余额 坏账准备\n类别\n比例 计提比例 账面价值\n金额 金额\n（%） （%）\n单项计提坏账准备的应收\n12,851,007.45 6.42 7,586,126.44 59.03 5,264,881.01\n账款\n按组合计提坏账准备的应\n187,427,014.64 93.58 24,653,375.86 13.15 162,773,638.78\n收账款\n其中：信用风险特征组合 187,427,014.64 93.58 24,653,375.86 13.15 162,773,638.78\n合计 200,278,022.09 100.00 32,239,502.30 16.10 168,038,519.79\n续：\n期初余额\n账面余额 坏账准备\n类别\n比例 计提比例 账面价值\n金额 金额\n（%） （%）\n单项计提坏账准备的应收\n4,881,245.42 2.23 4,881,245.42 100.00\n账款\n按组合计提坏账准备的应\n214,430,340.23 97.77 25,768,946.28 12.02 188,661,393.95\n收账款\n其中：信用风险特征组合 214,430,340.23 97.77 25,768,946.28 12.02 188,661,393.95\n财务报表附注 第46页",
+    "header_footer": [
+     "新疆东方环宇燃气股份有限公司",
+     "2025年度",
+     "财务报表附注",
+     "财务报表附注 第46页"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   },
+   {
+    "page": 2,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "新疆东方环宇燃气股份有限公司\n2025年度\n财务报表附注\n期初余额\n账面余额 坏账准备\n类别\n比例 计提比例 账面价值\n金额 金额\n（%） （%）\n合计 219,311,585.65 100.00 30,650,191.70 13.98 188,661,393.95\n3．单项计提坏账准备的应收账款\n期末余额\n单位名称 计提比例\n账面余额 坏账准备 计 提理由\n（%）\n逾期涉诉，已强制执\n新疆蓝海新能源有限公司 10,529,762.03 5,264,881.02 50.00\n行冻结资金\n新疆海联三邦投资有限公司 1,987,509.80 1,987,509.80 100.00 预计无法收回\n昌吉市御足堂康体有限公司 38,095.24 38,095.24 100.00 预计无法收回\n昌吉市金海快捷宾馆 295,640.38 295,640.38 100.00 预计无法收回\n合计 12,851,007.45 7,586,126.44 59.03\n4．按组合计提坏账准备的应收账款\n期末余额\n账龄\n账面余额 坏账准备 计提比例（%）\n1年以内 158,360,745.27 7,918,037.26 5.00\n1－2年 6,192,921.20 619,292.12 10.00\n2－3年 5,320,416.74 1,064,083.36 20.00\n3－4年 4,067,754.23 2,033,877.13 50.00\n4－5年 2,335,456.06 1,868,364.85 80.00\n5年以上 11,149,721.14 11,149,721.14 100.00\n合计 187,427,014.64 24,653,375.86 13.15\n5．本期计提、收回或转回的坏账准备情况\n本期变动情况\n类别 期初余额 收回或转 期末余额\n计提 核销 其他变动(注1)\n回\n单项计提坏账准\n4,881,245.42 5,264,881.02 2,560,000.00 7,586,126.44\n备的应收账款\n按组合计提坏账\n25,768,946.28 -607,033.48 508,536.94 24,653,375.86\n准备的应收账款\n其中：信用风险\n25,768,946.28 -607,033.48 508,536.94 24,653,375.86\n特征组合\n合计 30,650,191.70 4,657,847.54 2,560,000.00 508,536.94 32,239,502.30\n注 1：公司本期对新疆东方环宇工业设备安装有限责任公司应收工程款债权重组，因债权重组坏账准\n备减少508,536.94元。\n财务报表附注 第47页",
+    "header_footer": [
+     "新疆东方环宇燃气股份有限公司",
+     "2025年度",
+     "财务报表附注",
+     "备减少508,536.94元。",
+     "财务报表附注 第47页"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   }
+  ],
+  "updated": "2026-11-07T19:08:59"
+ },
+ "016.jpg": {
+  "tables": [
+   {
+    "json": "016.jpg_94_1.json",
+    "table_index": 1,
+    "title": "Photoelectric effect apparatus with solar cell / Leads Set",
+    "pages": [
+     1
+    ],
+    "confidence": 94,
+    "shape": [
+     25,
+     4
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "英文",
+    "body_text": "",
+    "header_footer": [
+     "1IEU/2016R1 Page 45of8!"
+    ],
+    "figures": [],
+    "layout_source": "vlm+lines"
+   }
+  ],
+  "updated": "2026-11-07T19:09:20"
+ },
+ "033.jpg": {
+  "tables": [
+   {
+    "json": "033.jpg_83_1.json",
+    "table_index": 1,
+    "title": "不动产权信息表",
+    "pages": [
+     1
+    ],
+    "confidence": 83,
+    "shape": [
+     10,
+     2
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "lines"
+   }
+  ],
+  "updated": "2026-11-07T19:09:36"
+ },
+ "040.png": {
+  "tables": [
+   {
+    "json": "040.png_92_1.json",
+    "table_index": 1,
+    "title": null,
+    "pages": [
+     1
+    ],
+    "confidence": 92,
+    "shape": [
+     22,
+     6
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "英文",
+    "body_text": "",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "vlm+lines"
+   }
+  ],
+  "updated": "2026-11-07T19:10:01"
+ },
+ "047.jpg": {
+  "tables": [
+   {
+    "json": "047.jpg_92_1.json",
+    "table_index": 1,
+    "title": "个人简历",
+    "pages": [
+     1
+    ],
+    "confidence": 92,
+    "shape": [
+     23,
+     12
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "lines"
+   }
+  ],
+  "updated": "2026-11-07T19:10:19"
+ },
+ "061.pdf": {
+  "tables": [
+   {
+    "json": "061.pdf_96_1.json",
+    "table_index": 1,
+    "title": "Table 12 | Comparative Analysis of DeepSeek-V4-Pro and Gemini-3.1-Pro in Chinese Functional Writing.",
+    "pages": [
+     1
+    ],
+    "confidence": 96,
+    "shape": [
+     45,
+     9
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中英文",
+    "body_text": "Table12 | ComparativeAnalysisofDeepSeek-V4-ProandGemini-3.1-ProinChineseFunctional\nWriting.\nInternalEvaluation(内部综合评估)\nCategory Subcategory # DSwin Gemwin Tie DS% Gem% Tie%\nReport(报告) 527 350 162 15 66.41 30.74 2.85\nProposal(方案策划) 291 181 103 7 62.20 35.40 2.41\nEducation(教育培训) 159 100 56 3 62.89 35.22 1.89\nEmail&Letter(邮件书信) 146 107 37 2 73.29 25.34 1.37\nBusiness\nWriting Notice(通知公告) 72 43 24 5 59.72 33.33 6.94\n(办公文本) Professional(专业文本) 63 34 27 2 53.97 42.86 3.17\nRecruitment(招聘求职) 42 27 15 0 64.29 35.71 0.00\nTechnical(技术文本) 29 22 7 0 75.86 24.14 0.00\nReview(介绍评价) 20 15 5 0 75.00 25.00 0.00\nSubtotal(小计) 1349 879 436 34 65.16 32.32 2.52\nSocialMedia(社交媒体文案) 267 156 101 10 58.43 37.83 3.75\nAdCopy(广告商品文案) 214 109 98 7 50.93 45.79 3.27\nLong-formContent(内容平台长文) 99 71 25 3 71.72 25.25 3.03\nMedia NewsReport(新闻报道) 51 27 22 2 52.94 43.14 3.92\nWriting Advertorial(营销软文) 17 12 4 1 70.59 23.53 5.88\n(媒体文本) Headline(标题) 11 7 4 0 63.64 36.36 0.00\nNarrationScript(口播文案) 4 2 1 1 50.00 25.00 25.00\nComment(评论) 3 2 1 0 66.67 33.33 0.00\nSubtotal(小计) 666 386 256 24 57.96 38.44 3.60\nCongratulatory(祝贺文本) 101 54 41 6 53.47 40.59 5.94\nCommunication(沟通回复) 100 71 26 3 71.00 26.00 3.00\nEveryday\nReflection(心得感想) 90 68 17 5 75.56 18.89 5.56\nWriting\nReview(介绍评价) 55 44 9 2 80.00 16.36 3.64\n(生活文本)\nComment(评论) 44 34 8 2 77.27 18.18 4.55\nSubtotal(小计) 390 271 101 18 69.49 25.90 4.62\nSpeech(发言稿) 226 135 85 6 59.73 37.61 2.65\nNarrationScript(口播文案) 51 25 23 3 49.02 45.10 5.88\nOral\nSalesScript(话术) 31 22 6 3 70.97 19.35 9.68\nWriting\n(口头文本) Dialogue(对话文本) 10 4 6 0 40.00 60.00 0.00\nCongratulatory(祝贺文本) 1 1 0 0 100.00 0.00 0.00\nSubtotal(小计) 319 187 120 12 58.62 37.62 3.76\nAdministrativeDoc(事务文书) 117 60 53 4 51.28 45.30 3.42\nPersonalDoc(个人文书) 73 45 27 1 61.64 36.99 1.37\nOfficial GovernmentDoc(行政公文) 34 19 14 1 55.88 41.18 2.94\nDocument\n(公文文本) Speech(发言稿) 3 1 2 0 33.33 66.67 0.00\nEssayWriting(申论写作) 3 1 1 1 33.33 33.33 33.33\nSubtotal(小计) 230 126 97 7 54.78 42.17 3.04\nResearchPaper(学术论文) 104 67 32 5 64.42 30.77 4.81\nAcademic Coursework(课程作业) 90 53 35 2 58.89 38.89 2.22\nWriting AcademicSupport(学术辅助) 15 11 3 1 73.33 20.00 6.67\n(学术文本) ScienceOutreach(专业科普) 7 6 1 0 85.71 14.29 0.00\nSubtotal(小计) 216 137 71 8 63.43 32.87 3.70\nTotal(总计) 3170 1986 1081 103 62.65 34.10 3.25\n57",
+    "header_footer": [
+     "Writing.",
+     "InternalEvaluation(内部综合评估)",
+     "57"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   }
+  ],
+  "updated": "2026-11-07T19:10:20"
+ },
+ "065.pdf": {
+  "tables": [
+   {
+    "json": "065.pdf_96_1.json",
+    "table_index": 1,
+    "title": "基础数据",
+    "pages": [
+     1
+    ],
+    "confidence": 96,
+    "shape": [
+     6,
+     2
+    ]
+   },
+   {
+    "json": "065.pdf_97_2.json",
+    "table_index": 2,
+    "title": "盈利预测和财务指标",
+    "pages": [
+     1
+    ],
+    "confidence": 97,
+    "shape": [
+     11,
+     6
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "某服装企业（600398.SH）\n第三季度收入下滑 11%，费用率提升盈利承压\n核心观点\n公司研究 ·财报点评\n纺织服饰 ·服装家纺\n第三季度收入下滑 11%，销售费用率提升，盈利承压。某服装企业是国内大\n众男装龙头品牌公司。2024年以来服装零售整体承压、三季度消费需求愈加 证券分析师：xxx 证券分析师：xxx\n疲 软，第三季度收入同比-11.0%至38.9亿元；毛利率同比-1.1百分点至 0755-81xxx 1 010-88005xxx 6\nS0980XX0040004 S098XX23070003\n42.8%； 除销售费用率外其他费用率较为稳定，销售费用率同比+5.8百分点\n基础数据\n至24.8%， 销售费用同比+16.0%至9.6亿元，预计一方面因主品牌直营占比\n投资评级 优于大市(维持)\n提升，另一方面与X企业并表后加速业务发展和推广有关。非经项目中，去\n合理估值 6.50 - 7.00元\n年同期因处 置男生女生品牌股权确认投资收益 1.6亿元，投资净收益占收 收盘价 5.65元\n总市值/流通市值 27136/27136 百万元\n入比例今年同 比下滑 3.7百分点。在毛利率下滑、销售费用率大幅提升、 52周最高价/最低价 10.04/5.15元\n近3个月日均成交额 363.96百万元\n以及投资收益高 基数影响下，净利润下滑明显，第三季度归母净利润同比-\n市场走势\n64.9%至2.7亿元， 归母净利率同比-9.1百分点至8.4%。\n存货大幅增长，存货周转效率下降，预计主要受X企业并表影响。三季度末，\n公司存货金额同比+53.5%、环比+29.1%至 123.3亿元，预计主要与X企业并\n表后进货增加有关，此外也受到三季度销售压力，以及主品牌为秋冬换季、\n双十一大促、春节提前备货的影响。存货周转天数同比+71天至 346天。应\n收、应付周转天数分别同比-2/+58天至20/298天。\n第三季度主品牌线下承压，电商及其他品牌表现优异。1）分品牌看，第三\n季度某服装企业/团购/其他品牌收入分别-27%/-37%/+110%，其中主品牌和\n团购业务收入增长承压，四季度预计环比将有所好转；其他品牌收入快速\n增长主要来自X企业并表贡献。2）分渠道看，直营/加盟收入分别-2%/-14%，\n若剔除电商，直营、加盟线下门店预计收入下滑幅度更大。线下整体-26%， 相关研究报告\n电商增长40%。从门店数量看，由于加盟门店主要为街边店，面临更大客流 《某服装企业（600398.SH）-上半年收入增长1.5%，中期分红\n率 67.5%》 ——2024-08-21\n下滑压力，主品牌三季度直营、加盟门店分别净+65/-101家；其他品牌 直 《某服装企业（600398.SH）-第一季度净利润增长10%，电商表\n现 亮眼》 ——2024-05-04\n营、加盟门店分别净+31/177家，预计主要为X企业的阿迪FCC门店。3） X\n《某服装企业（600398.SH）-第三季度净利润增长63%，电商表\n企业：X企业主营授权代理阿迪达斯等一线国际运动品牌鞋服国内的拓展 和 现 亮眼》 ——2023-11-01\n《某服装企业（600398.SH）-二季度归母净利润增长58%，库存\n零售业务，上海持有X企业51%股权，于二季度完成并表。X企业目 前核心 健 康度较高》 ——2023-09-01\n业务主要包括阿迪 FCC项目以及京东奥莱项目，未来增长可期。 《某服装企业（600398.SH）-2023一季度净利润增长11%，库存\n周 转改善》 ——2023-04-29\n风险提示：线下消费持续疲软、品牌形象受损、渠道拓展不及预期。\n投资建议：主品牌短期承压，X企业未来增长可期，关注高分红优质男装龙\n头投资机遇。基于四季度及明年消费复苏趋势仍然较弱，我们下调盈利预测，\n预计 2024~2026 年归母净利润分别为 24.0/27.6/30.0 亿元（前值为\n28.5/32.7/36.2亿元），同比-18.8%/+15.3%/+8.6%。基于盈利预测下调，\n下调目标价至6.5-7.0元（前值为7.7-8.3元），对应2024年13-14x PE，\n维持“优于大市”评级。\n盈利预测和财务指标 2022 2023 2024E 2025E 2026E\n营业收入(百万元) 18,562 21,528 21,021 22,776 24,601\n(+/-%) -8.1% 16.0% -2.4% 8.3% 8.0%\n净利润(百万元) 2155 2952 2397 2764 3002\n(+/-%) -13.5% 37.0% -18.8% 15.3% 8.6%\n每股收益（元） 0.50 0.67 0.50 0.58 0.63\nEBIT Margin 19.3% 19.2% 15.5% 16.8% 16.8%\n净资产收益率（ROE） 14.8% 18.4% 14.7% 16.7% 17.8%\n市盈率（PE） 11.3 8.4 11.3 9.8 9.0\nEV/EBITDA 9.1 7.9 12.7 11.3 10.8\n市净率（PB） 1.7 1.5 1.7 1.6 1.6\n注：摊薄每股收益按最新总股本计算\n请务必阅读正文之后的免责声明及其项下所有内容",
+    "header_footer": [
+     "某服装企业（600398.SH）",
+     "第三季度收入下滑 11%，费用率提升盈利承压",
+     "核心观点",
+     "注：摊薄每股收益按最新总股本计算",
+     "请务必阅读正文之后的免责声明及其项下所有内容"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   }
+  ],
+  "updated": "2026-11-07T19:10:21"
+ },
+ "078.png": {
+  "tables": [
+   {
+    "json": "078.png_97_1.json",
+    "table_index": 1,
+    "title": "AMAZON.COM, INC. CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "pages": [
+     1
+    ],
+    "confidence": 97,
+    "shape": [
+     27,
+     4
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": "AMAZON.COM, INC. CONSOLIDATED STATEMENTS OF OPERATIONS (in millions, except per share data)",
+    "language": "英文",
+    "body_text": "AMAZON.COM, INC.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(in millions, except per share data)\nSee accompanying notes to consolidated financial statements.",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "vlm+lines"
+   }
+  ],
+  "updated": "2026-11-07T19:10:45"
+ },
+ "085.png": {
+  "tables": [
+   {
+    "json": "085.png_96_1.json",
+    "table_index": 1,
+    "title": "Production and distribution",
+    "pages": [
+     1
+    ],
+    "confidence": 96,
+    "shape": [
+     18,
+     9
+    ]
+   }
+  ],
+  "recognition_cost": 0.0,
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": "Production and distribution",
+    "language": "英文",
+    "body_text": "Production and distribution\nRead-only table",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "vlm+lines"
+   }
+  ],
+  "updated": "2026-11-07T19:11:04"
+ },
+ "007.pdf": {
+  "tables": [
+   {
+    "json": "007.pdf_98_1.json",
+    "table_index": 1,
+    "title": "注释11．投资性房地产",
+    "pages": [
+     1
+    ],
+    "confidence": 98,
+    "shape": [
+     21,
+     2
+    ]
+   },
+   {
+    "json": "007.pdf_88_2.json",
+    "table_index": 2,
+    "title": "1．固定资产情况",
+    "pages": [
+     1,
+     2
+    ],
+    "confidence": 88,
+    "shape": [
+     29,
+     5
+    ]
+   }
+  ],
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "新疆东方环宇燃气股份有限公司\n2025年度\n财务报表附注\n注释11．投资性房地产\n项目 房屋建筑物 土地使用权 合计\n一. 账面原值\n1．期初余额 30,085,242.98 18,145,349.98 48,230,592.96\n2．本期增加金额\n固定资产转入\n3．本期减少金额\n4．期末余额 30,085,242.98 18,145,349.98 48,230,592.96\n二. 累计折旧（摊销）\n1．期初余额 18,657,991.61 5,439,923.66 24,097,915.27\n2．本期增加金额 1,284,634.20 454,388.16 1,739,022.36\n本期计提 1,284,634.20 454,388.16 1,739,022.36\n3．本期减少金额\n4．期末余额 19,942,625.81 5,894,311.82 25,836,937.63\n三. 减值准备\n1．期初余额\n2．本期增加金额\n3．本期减少金额\n4．期末余额\n四. 账面价值\n1．期末账面价值 10,142,617.17 12,251,038.16 22,393,655.33\n2．期初账面价值 11,427,251.37 12,705,426.32 24,132,677.69\n注释12．固定资产\n项目 期末余额 期初余额\n固定资产 828,131,772.05 908,086,512.30\n固定资产清理\n合计 828,131,772.05 908,086,512.30\n注：上表中的固定资产是指扣除固定资产清理后的固定资产。\n（一）固定资产\n1．固定资产情况\n房屋及建筑 办公电子及\n项目 管网设备 机器设备 运输工具 合计\n物 其他设备\n一. 账面\n原值\n财务报表附注 第54页",
+    "header_footer": [
+     "新疆东方环宇燃气股份有限公司",
+     "2025年度",
+     "财务报表附注",
+     "原值",
+     "财务报表附注 第54页"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   },
+   {
+    "page": 2,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "新疆东方环宇燃气股份有限公司\n2025年度\n财务报表附注\n房屋及建筑 办公电子及\n项目 管网设备 机器设备 运输工具 合计\n物 其他设备\n1．期初余\n305,058,695.47 1,469,576,939.05 808,125,321.82 34,260,403.66 22,804,554.09 2,639,825,914.09\n额\n2．本期增\n6,581,441.34 34,512,218.51 356,388.24 1,876,349.13 2,170,929.56 45,497,326.78\n加金额\n购置 81,371.67 1,876,349.13 1,767,848.19 3,725,568.99\n在建工\n6,581,441.34 34,512,218.51 275,016.57 403,081.37 41,771,757.79\n程转入\n其他\n3．本期减\n1,659,525.44 5,666,160.88 2,585,663.28 264,135.74 10,175,485.34\n少金额\n处置或\n39,904.10 4,171,953.54 2,585,663.28 264,135.74 7,061,656.66\n报废\n其他 1,619,621.34 1,494,207.34 3,113,828.68\n4．期末余\n311,640,136.81 1,502,429,632.12 802,815,549.18 33,551,089.51 24,711,347.91 2,675,147,755.53\n额\n二. 累计\n折旧\n1．期初余\n124,807,155.92 1,011,052,665.65 534,731,157.39 27,296,395.16 16,545,886.24 1,714,433,260.36\n额\n2．本期增\n12,701,815.00 61,389,528.82 42,085,304.16 2,387,489.56 2,140,725.70 120,704,863.24\n加金额\n本期计\n12,701,815.00 61,389,528.82 42,085,304.16 2,387,489.56 2,140,725.70 120,704,863.24\n提\n3．本期减\n24,502.58 2,682,069.39 2,458,595.81 218,392.34 5,383,560.12\n少金额\n处置或\n24,502.58 2,682,069.39 2,458,595.81 218,392.34 5,383,560.12\n报废\n4．期末余\n137,508,970.92 1,072,417,691.89 574,134,392.16 27,225,288.91 18,468,219.60 1,829,754,563.48\n额\n三. 减值\n准备\n1．期初余\n12,585,594.72 746,864.32 3,885,318.00 88,364.39 17,306,141.43\n额\n2．本期增\n加金额\n重分类\n本期计\n提\n3．本期减\n41,563.59 3,157.84 44,721.43\n少金额\n处置或\n41,563.59 3,157.84 44,721.43\n报废\n4．期末余\n12,585,594.72 746,864.32 3,843,754.41 85,206.55 17,261,420.00\n额\n四. 账面\n价值\n1．期末账\n161,545,571.17 429,265,075.91 224,837,402.61 6,325,800.60 6,157,921.76 828,131,772.05\n面价值\n2．期初账\n167,665,944.83 457,777,409.08 269,508,846.43 6,964,008.50 6,170,303.46 908,086,512.30\n面价值\n财务报表附注 第55页",
+    "header_footer": [
+     "新疆东方环宇燃气股份有限公司",
+     "2025年度",
+     "财务报表附注",
+     "面价值",
+     "财务报表附注 第55页"
+    ],
+    "figures": [],
+    "layout_source": "pdf_text_layer"
+   }
+  ],
+  "updated": "2026-11-10T16:47:28"
+ },
+ "005.pdf": {
+  "tables": [],
+  "pages_context": [
+   {
+    "page": 1,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "lines"
+   },
+   {
+    "page": 2,
+    "page_title": null,
+    "language": "中文",
+    "body_text": "",
+    "header_footer": [],
+    "figures": [],
+    "layout_source": "lines"
+   }
+  ],
+  "updated": "2026-11-10T16:48:49"
+ }
+}

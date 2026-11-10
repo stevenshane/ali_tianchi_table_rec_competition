@@ -1,0 +1,1153 @@
+{
+ "source_file": "078.png",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "AMAZON.COM, INC. CONSOLIDATED STATEMENTS OF OPERATIONS",
+ "unit": "in millions, except per share data",
+ "language": "英文",
+ "header_rows": 2,
+ "row_count": 27,
+ "col_count": 4,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Year Ended December 31,",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2015",
+   "value_type": "year",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2016",
+   "value_type": "year",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2017",
+   "value_type": "year",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Net product sales",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 79,268",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 94,665",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 118,573",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Net service sales",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "27,738",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "41,322",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "59,293",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Total net sales",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "107,006",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "135,987",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "177,866",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Operating expenses:",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Cost of sales",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "71,651",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "88,265",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "111,934",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Fulfillment",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "13,410",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "17,619",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "25,249",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Marketing",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5,254",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7,233",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10,069",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Technology and content",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "12,540",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16,085",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "22,620",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "General and administrative",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1,747",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2,432",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3,674",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Other operating expense, net",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "171",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "167",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "214",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Total operating expenses",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "104,773",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "131,801",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "173,760",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Operating income",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2,233",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4,186",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4,106",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Interest income",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "50",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "100",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "202",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Interest expense",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(459)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(484)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(848)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Other income (expense), net",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(256)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "90",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "346",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Total non-operating income (expense)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(665)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(294)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(300)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Income before income taxes",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1,568",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3,892",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3,806",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Provision for income taxes",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(950)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(1,425)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(769)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Equity-method investment activity, net of tax",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(22)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(96)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(4)",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Net income",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 596",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 2,371",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 3,033",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Basic earnings per share",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 1.28",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 5.01",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 6.32",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Diluted earnings per share",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 1.25",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 4.90",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "$ 6.15",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Weighted-average shares used in computation of earnings per share:",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "",
+   "value_type": "empty",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Basic",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "467",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "474",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 25,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "480",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Diluted",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "477",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "484",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 26,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "493",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [
+  "See accompanying notes to consolidated financial statements."
+ ],
+ "confidence": 97,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {
+  "score": 85,
+  "metrics": {
+   "size": [
+    972,
+    899
+   ],
+   "orientation_k": 0,
+   "orientation_conf": 1.0,
+   "skew_deg": 0.0,
+   "char_height": 21.0,
+   "short_edge": 899,
+   "illumination_std": 0.0,
+   "contrast": {
+    "p5": 178.0,
+    "p95": 255.0,
+    "range": 77.0,
+    "fg_bg_gap": 186.0
+   },
+   "noise": {
+    "tiny": 96,
+    "total": 1166,
+    "tiny_frac": 0.0823327615780446
+   }
+  },
+  "issues": [
+   "low_resolution"
+  ],
+  "actions": [
+   [
+    "upscale",
+    {
+     "factor": 2
+    }
+   ]
+  ]
+ },
+ "preprocess": {
+  "original": "work\\078.png\\p1_orig.png",
+  "steps": [
+   {
+    "step": "upscale",
+    "params": {
+     "factor": 2
+    },
+    "image": "work\\078.png\\p1_1_upscale.png"
+   }
+  ]
+ },
+ "context": {
+  "page_title": "AMAZON.COM, INC. CONSOLIDATED STATEMENTS OF OPERATIONS (in millions, except per share data)",
+  "language": "英文",
+  "body_text": "AMAZON.COM, INC.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(in millions, except per share data)\nSee accompanying notes to consolidated financial statements.",
+  "header_footer": [],
+  "figures": [],
+  "layout_source": "vlm+lines"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   "number",
+   "number",
+   "number"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 6,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 93,
+ "declared_shape": [
+  27,
+  4
+ ],
+ "bbox": [
+  78,
+  270,
+  1875,
+  1698
+ ]
+}

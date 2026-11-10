@@ -1,0 +1,552 @@
+{
+ "source_file": "016.jpg",
+ "pages": [
+  1
+ ],
+ "table_index": 1,
+ "title": "Photoelectric effect apparatus with solar cell / Leads Set",
+ "unit": null,
+ "language": "英文",
+ "header_rows": 0,
+ "row_count": 25,
+ "col_count": 4,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Socket",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "(4) mm socket with working values.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 4,
+   "colspan": 1,
+   "text": "Values",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Set ≥9",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 3,
+   "colspan": 1,
+   "text": "Capacitors",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "(220), (470) pF .",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "(100), (2.2), (4.7), (10), (22), (47) nF",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 2,
+   "text": "( 1)μF",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Item No:",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.21",
+   "value_type": "id",
+   "style": {
+    "bg_color": "lavender"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Item Name:",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Photoelectric effect apparatus with solar cell",
+   "value_type": "text",
+   "style": {
+    "font_color": "red",
+    "bg_color": "lavender"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "Component & Specification",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "The Box",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "A metal box",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Consist",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "a window, inside it (Ag-Cs) photoelectric cell , with electronic circuit.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Switch",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "(On/Off).",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 0,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "Adjustment Knobs",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "For incoming voltage.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 11,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Incoming current.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Ftrials",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 12,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "(6) Colors.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 0,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "Sockets",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 13,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "A pair of (4) mm earth sockets to measure incoming current.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 14,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "A pair of (4) mm earth sockets to measure incoming voltage.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Accessories",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 15,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Spare photoelectric cell and Instruction booklet.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Item No:",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.22",
+   "value_type": "id",
+   "style": {
+    "bg_color": "lavender"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Item Name:",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 16,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Leads Set (Banana)",
+   "value_type": "text",
+   "style": {
+    "bg_color": "lavender"
+   },
+   "cell_conf": 92
+  },
+  {
+   "row": 17,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 4,
+   "text": "Component & Specification",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 0,
+   "rowspan": 3,
+   "colspan": 1,
+   "text": "Leads Set",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 18,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Banana plugs.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 19,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Flexible leads.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 20,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Double (PVC) covered.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "Material",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 21,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "Copper.",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 0,
+   "rowspan": 3,
+   "colspan": 1,
+   "text": "set of (9) pieces consist of",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 22,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "(25) cm long (red, black, and yellow).",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 23,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "(50) cm long (red, black, and green).",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 24,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "(100) cm long (red, black, and blue).",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [],
+ "confidence": 94,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {
+  "score": 85,
+  "metrics": {
+   "size": [
+    842,
+    596
+   ],
+   "orientation_k": 0,
+   "orientation_conf": 1.0,
+   "skew_deg": 0.0,
+   "char_height": 16.0,
+   "short_edge": 596,
+   "illumination_std": 0.0,
+   "contrast": {
+    "p5": 117.0,
+    "p95": 255.0,
+    "range": 138.0,
+    "fg_bg_gap": 179.8
+   },
+   "noise": {
+    "tiny": 156,
+    "total": 780,
+    "tiny_frac": 0.2
+   }
+  },
+  "issues": [
+   "low_resolution"
+  ],
+  "actions": [
+   [
+    "upscale",
+    {
+     "factor": 2
+    }
+   ]
+  ]
+ },
+ "preprocess": {
+  "original": "work\\016.jpg\\p1_orig.png",
+  "steps": [
+   {
+    "step": "upscale",
+    "params": {
+     "factor": 2
+    },
+    "image": "work\\016.jpg\\p1_1_upscale.png"
+   }
+  ]
+ },
+ "context": {
+  "page_title": null,
+  "language": "英文",
+  "body_text": "",
+  "header_footer": [
+   "1IEU/2016R1 Page 45of8!"
+  ],
+  "figures": [],
+  "layout_source": "vlm+lines"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   null,
+   null,
+   null
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 82,
+ "declared_shape": [
+  25,
+  4
+ ],
+ "bbox": [
+  108,
+  86,
+  1114,
+  1050
+ ]
+}

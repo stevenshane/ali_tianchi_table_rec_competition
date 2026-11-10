@@ -1,0 +1,384 @@
+{
+ "source_file": "006.pdf",
+ "pages": [
+  2
+ ],
+ "table_index": 6,
+ "title": "4．按组合计提坏账准备的应收账款",
+ "unit": null,
+ "language": "中文",
+ "header_rows": 2,
+ "row_count": 9,
+ "col_count": 4,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 2,
+   "colspan": 1,
+   "text": "账龄",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 3,
+   "text": "期末余额",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "账面余额",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "坏账准备",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "计提比例（%）",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1年以内",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "158,360,745.27",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7,918,037.26",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5.00",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1－2年",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "6,192,921.20",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "619,292.12",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10.00",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2－3年",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5,320,416.74",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1,064,083.36",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "20.00",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3－4年",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4,067,754.23",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2,033,877.13",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "50.00",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "4－5年",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2,335,456.06",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1,868,364.85",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "80.00",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "5年以上",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11,149,721.14",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11,149,721.14",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "100.00",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "合计",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "187,427,014.64",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "24,653,375.86",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "13.15",
+   "value_type": "amount",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [],
+ "confidence": 97,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {},
+ "preprocess": [],
+ "context": {
+  "page_title": null,
+  "language": "中文",
+  "body_text": "新疆东方环宇燃气股份有限公司\n2025年度\n财务报表附注\n期初余额\n账面余额 坏账准备\n类别\n比例 计提比例 账面价值\n金额 金额\n（%） （%）\n合计 219,311,585.65 100.00 30,650,191.70 13.98 188,661,393.95\n3．单项计提坏账准备的应收账款\n期末余额\n单位名称 计提比例\n账面余额 坏账准备 计 提理由\n（%）\n逾期涉诉，已强制执\n新疆蓝海新能源有限公司 10,529,762.03 5,264,881.02 50.00\n行冻结资金\n新疆海联三邦投资有限公司 1,987,509.80 1,987,509.80 100.00 预计无法收回\n昌吉市御足堂康体有限公司 38,095.24 38,095.24 100.00 预计无法收回\n昌吉市金海快捷宾馆 295,640.38 295,640.38 100.00 预计无法收回\n合计 12,851,007.45 7,586,126.44 59.03\n4．按组合计提坏账准备的应收账款\n期末余额\n账龄\n账面余额 坏账准备 计提比例（%）\n1年以内 158,360,745.27 7,918,037.26 5.00\n1－2年 6,192,921.20 619,292.12 10.00\n2－3年 5,320,416.74 1,064,083.36 20.00\n3－4年 4,067,754.23 2,033,877.13 50.00\n4－5年 2,335,456.06 1,868,364.85 80.00\n5年以上 11,149,721.14 11,149,721.14 100.00\n合计 187,427,014.64 24,653,375.86 13.15\n5．本期计提、收回或转回的坏账准备情况\n本期变动情况\n类别 期初余额 收回或转 期末余额\n计提 核销 其他变动(注1)\n回\n单项计提坏账准\n4,881,245.42 5,264,881.02 2,560,000.00 7,586,126.44\n备的应收账款\n按组合计提坏账\n25,768,946.28 -607,033.48 508,536.94 24,653,375.86\n准备的应收账款\n其中：信用风险\n25,768,946.28 -607,033.48 508,536.94 24,653,375.86\n特征组合\n合计 30,650,191.70 4,657,847.54 2,560,000.00 508,536.94 32,239,502.30\n注 1：公司本期对新疆东方环宇工业设备安装有限责任公司应收工程款债权重组，因债权重组坏账准\n备减少508,536.94元。\n财务报表附注 第47页",
+  "header_footer": [
+   "新疆东方环宇燃气股份有限公司",
+   "2025年度",
+   "财务报表附注",
+   "备减少508,536.94元。",
+   "财务报表附注 第47页"
+  ],
+  "figures": [],
+  "layout_source": "pdf_text_layer"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   "amount",
+   "amount",
+   "percent"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 2,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 95,
+ "declared_shape": [
+  9,
+  4
+ ]
+}

@@ -1,0 +1,718 @@
+{
+ "source_file": "065.pdf",
+ "pages": [
+  1
+ ],
+ "table_index": 2,
+ "title": "盈利预测和财务指标",
+ "unit": null,
+ "language": "中文",
+ "header_rows": 1,
+ "row_count": 11,
+ "col_count": 6,
+ "cells": [
+  {
+   "row": 0,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "盈利预测和财务指标",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2022",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2023",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2024E",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2025E",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 0,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2026E",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "营业收入(百万元)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18,562",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "21,528",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "21,021",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "22,776",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 1,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "24,601",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(+/-%)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "-8.1%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16.0%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "-2.4%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8.3%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 2,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8.0%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "净利润(百万元)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2155",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2952",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2397",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "2764",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 3,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "3002",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "(+/-%)",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "-13.5%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "37.0%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "-18.8%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15.3%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 4,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8.6%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "每股收益（元）",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.50",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.67",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.50",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.58",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 5,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "0.63",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "EBIT Margin",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "19.3%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "19.2%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "15.5%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16.8%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 6,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16.8%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "净资产收益率（ROE）",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14.8%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "18.4%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "14.7%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "16.7%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 7,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "17.8%",
+   "value_type": "percent",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "市盈率（PE）",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11.3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "8.4",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11.3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9.8",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 8,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9.0",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "EV/EBITDA",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "9.1",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "7.9",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "12.7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "11.3",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 9,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "10.8",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 0,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "市净率（PB）",
+   "value_type": "text",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 2,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.5",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 3,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.7",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 4,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  },
+  {
+   "row": 10,
+   "col": 5,
+   "rowspan": 1,
+   "colspan": 1,
+   "text": "1.6",
+   "value_type": "number",
+   "style": {},
+   "cell_conf": 92
+  }
+ ],
+ "footnotes": [
+  "注：摊薄每股收益按最新总股本计算"
+ ],
+ "confidence": 97,
+ "recognized_by": "vlm",
+ "continues_from_prev": false,
+ "quality": {},
+ "preprocess": [],
+ "context": {
+  "page_title": null,
+  "language": "中文",
+  "body_text": "某服装企业（600398.SH）\n第三季度收入下滑 11%，费用率提升盈利承压\n核心观点\n公司研究 ·财报点评\n纺织服饰 ·服装家纺\n第三季度收入下滑 11%，销售费用率提升，盈利承压。某服装企业是国内大\n众男装龙头品牌公司。2024年以来服装零售整体承压、三季度消费需求愈加 证券分析师：xxx 证券分析师：xxx\n疲 软，第三季度收入同比-11.0%至38.9亿元；毛利率同比-1.1百分点至 0755-81xxx 1 010-88005xxx 6\nS0980XX0040004 S098XX23070003\n42.8%； 除销售费用率外其他费用率较为稳定，销售费用率同比+5.8百分点\n基础数据\n至24.8%， 销售费用同比+16.0%至9.6亿元，预计一方面因主品牌直营占比\n投资评级 优于大市(维持)\n提升，另一方面与X企业并表后加速业务发展和推广有关。非经项目中，去\n合理估值 6.50 - 7.00元\n年同期因处 置男生女生品牌股权确认投资收益 1.6亿元，投资净收益占收 收盘价 5.65元\n总市值/流通市值 27136/27136 百万元\n入比例今年同 比下滑 3.7百分点。在毛利率下滑、销售费用率大幅提升、 52周最高价/最低价 10.04/5.15元\n近3个月日均成交额 363.96百万元\n以及投资收益高 基数影响下，净利润下滑明显，第三季度归母净利润同比-\n市场走势\n64.9%至2.7亿元， 归母净利率同比-9.1百分点至8.4%。\n存货大幅增长，存货周转效率下降，预计主要受X企业并表影响。三季度末，\n公司存货金额同比+53.5%、环比+29.1%至 123.3亿元，预计主要与X企业并\n表后进货增加有关，此外也受到三季度销售压力，以及主品牌为秋冬换季、\n双十一大促、春节提前备货的影响。存货周转天数同比+71天至 346天。应\n收、应付周转天数分别同比-2/+58天至20/298天。\n第三季度主品牌线下承压，电商及其他品牌表现优异。1）分品牌看，第三\n季度某服装企业/团购/其他品牌收入分别-27%/-37%/+110%，其中主品牌和\n团购业务收入增长承压，四季度预计环比将有所好转；其他品牌收入快速\n增长主要来自X企业并表贡献。2）分渠道看，直营/加盟收入分别-2%/-14%，\n若剔除电商，直营、加盟线下门店预计收入下滑幅度更大。线下整体-26%， 相关研究报告\n电商增长40%。从门店数量看，由于加盟门店主要为街边店，面临更大客流 《某服装企业（600398.SH）-上半年收入增长1.5%，中期分红\n率 67.5%》 ——2024-08-21\n下滑压力，主品牌三季度直营、加盟门店分别净+65/-101家；其他品牌 直 《某服装企业（600398.SH）-第一季度净利润增长10%，电商表\n现 亮眼》 ——2024-05-04\n营、加盟门店分别净+31/177家，预计主要为X企业的阿迪FCC门店。3） X\n《某服装企业（600398.SH）-第三季度净利润增长63%，电商表\n企业：X企业主营授权代理阿迪达斯等一线国际运动品牌鞋服国内的拓展 和 现 亮眼》 ——2023-11-01\n《某服装企业（600398.SH）-二季度归母净利润增长58%，库存\n零售业务，上海持有X企业51%股权，于二季度完成并表。X企业目 前核心 健 康度较高》 ——2023-09-01\n业务主要包括阿迪 FCC项目以及京东奥莱项目，未来增长可期。 《某服装企业（600398.SH）-2023一季度净利润增长11%，库存\n周 转改善》 ——2023-04-29\n风险提示：线下消费持续疲软、品牌形象受损、渠道拓展不及预期。\n投资建议：主品牌短期承压，X企业未来增长可期，关注高分红优质男装龙\n头投资机遇。基于四季度及明年消费复苏趋势仍然较弱，我们下调盈利预测，\n预计 2024~2026 年归母净利润分别为 24.0/27.6/30.0 亿元（前值为\n28.5/32.7/36.2亿元），同比-18.8%/+15.3%/+8.6%。基于盈利预测下调，\n下调目标价至6.5-7.0元（前值为7.7-8.3元），对应2024年13-14x PE，\n维持“优于大市”评级。\n盈利预测和财务指标 2022 2023 2024E 2025E 2026E\n营业收入(百万元) 18,562 21,528 21,021 22,776 24,601\n(+/-%) -8.1% 16.0% -2.4% 8.3% 8.0%\n净利润(百万元) 2155 2952 2397 2764 3002\n(+/-%) -13.5% 37.0% -18.8% 15.3% 8.6%\n每股收益（元） 0.50 0.67 0.50 0.58 0.63\nEBIT Margin 19.3% 19.2% 15.5% 16.8% 16.8%\n净资产收益率（ROE） 14.8% 18.4% 14.7% 16.7% 17.8%\n市盈率（PE） 11.3 8.4 11.3 9.8 9.0\nEV/EBITDA 9.1 7.9 12.7 11.3 10.8\n市净率（PB） 1.7 1.5 1.7 1.6 1.6\n注：摊薄每股收益按最新总股本计算\n请务必阅读正文之后的免责声明及其项下所有内容",
+  "header_footer": [
+   "某服装企业（600398.SH）",
+   "第三季度收入下滑 11%，费用率提升盈利承压",
+   "核心观点",
+   "注：摊薄每股收益按最新总股本计算",
+   "请务必阅读正文之后的免责声明及其项下所有内容"
+  ],
+  "figures": [],
+  "layout_source": "pdf_text_layer"
+ },
+ "validation": {
+  "column_types": [
+   null,
+   "number",
+   "number",
+   "number",
+   "number",
+   "number"
+  ],
+  "structure_issues": [],
+  "semantic_suspects": [],
+  "business_violations": [],
+  "totals_passed": 0,
+  "totals_failed": [],
+  "suspect_cells": []
+ },
+ "self_confidence": 95,
+ "declared_shape": [
+  11,
+  6
+ ]
+}
